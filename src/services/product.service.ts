@@ -1,5 +1,5 @@
-import { IProduct } from "@/features/product/product.interface";
-import { addProduct, setProducts } from "@/features/product/productSlice";
+import { addProduct, setProducts } from "@/features/product/product.slice";
+import { IProduct } from "@features/product/product.interface";
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 export const productApi = createApi({

@@ -31,6 +31,14 @@
     {
       "id": 8,
       "name": "Samsung s7"
+    },
+    {
+      "id": 9,
+      "name": "Note 7"
+    },
+    {
+      "id": 10,
+      "name": "SS S22 Ultra"
     }
   ]
 }
